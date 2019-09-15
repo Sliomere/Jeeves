@@ -1,0 +1,21 @@
+{
+  "name": "jeeves",
+  "version": "1.0.0",
+  "description": "Add .test domains to your hosts file",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "bin": {
+    "jeeves": "./app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hostile": "^1.3.2",
+    "is-elevated": "^3.0.0",
+    "shelljs": "^0.8.3",
+    "tonto": "^0.1.1",
+    "yargs": "^14.0.0"
+  }
+}

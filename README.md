@@ -2,7 +2,7 @@
 
 #### Serving your sites. Easily.
 
-![Jeeves](jeeves.png)
+![Jeeves](https://github.com/Sliomere/Jeeves/raw/master/jeeves.png)
 
 ## About Jeeves
 
